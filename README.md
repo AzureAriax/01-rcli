@@ -1,5 +1,4 @@
-# Geektime Rust 语言训练营
-
+# Rcli
 ## 环境设置
 
 ### 安装 Rust
